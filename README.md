@@ -4,7 +4,7 @@ Link的博客草稿
 
 ## 目录
 
-### #1 [从一次还算顺利的面试过程，带来求职过程的思考总结](https://github.com/LinkSe7en/blog-draft/blob/blogs/my-happy-career.md)
+### #1 [从一次还算顺利的面试过程，带来求职过程的思考总结](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/my-happy-career.md)
 
 ```json
 {
