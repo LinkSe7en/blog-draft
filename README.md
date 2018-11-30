@@ -2,8 +2,9 @@
 
 Link的博客草稿
 
-## 目录
+# 目录
 
+## 随笔
 
 ### #1 [Spark Java使用DataFrame的foreach/foreachPartition](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/spark-foreach-partition-in-java.md)
 
@@ -61,3 +62,18 @@ Link的博客草稿
 }
 ```
 
+## 系列文章深坑
+
+### #5 [基于Spark构建通用即席查询平台 Part0000](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/very-exciting-spark-query-platform-part0000.md)
+
+```json
+{
+  "create_time":"2018-12-01",
+  "edit_time":"2018-12-01",
+  "current_version":"V1.0.0-SNAPSHOT",
+  "has_publish":false,
+  "publish_urls":[
+
+  ]
+}
+```
