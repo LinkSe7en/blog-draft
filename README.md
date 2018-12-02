@@ -59,8 +59,8 @@
 ```json
 {
   "create_time":"2018-11-30",
-  "edit_time":"2018-11-30",
-  "current_version":"V1.0.0-SNAPSHOT",
+  "edit_time":"2018-12-02",
+  "current_version":"V1.1.0-SNAPSHOT",
   "has_publish":false,
   "publish_urls":[
 
