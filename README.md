@@ -49,25 +49,25 @@
 
 ## HBase在用户画像中的应用
 
-### #6 [稀疏与绵密，HBase动态列or固定列？]()
+### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/how-to-design-hbase-struct.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
-### #7 [详单查询，实时聚合]()
+### #7 [详单查询，实时聚合](blogs/real_time-query-and-aggregation.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
-### #8 [面向应用与面向OLAP]()
+### #8 [面向应用与面向OLAP](blogs/portrait-application-and-olap.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
-### #9 [关于NoSQL在应用开发中选型的思考]()
+### #9 [关于NoSQL在应用开发中选型的思考](blogs/nosql-in-application.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
