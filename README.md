@@ -34,7 +34,7 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
-|2018-11-30|2018-12-02|V1.1.0-SNAPSHOT|false||
+|2018-11-30|2018-12-03|V1.2.4-SNAPSHOT|false||
 
 ## 系列文章深坑
 
