@@ -16,19 +16,19 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
-|2016-05-28|2016-05-28|V1.0.0-RELEASE|true|[](https://segmentfault.com/a/1190000005365244)|
+|2016-05-28|2016-05-28|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005365244)|
 
 ### #2 [使用Zeppelin来实现大数据分析的可视化](blogs/hello-zeppelin.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
-|2016-06-08|2016-06-08|V1.0.0-RELEASE|true|[](https://segmentfault.com/a/1190000005673104)|
+|2016-06-08|2016-06-08|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005673104)|
 
 ### #3 [Spark通过bulkLoad对HBase快速导入](blogs/spark-hbase-bulkload.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
-|2017-06-13|2017-06-13|V1.0.0-RELEASE|true|[](https://segmentfault.com/a/1190000009762041)|
+|2017-06-13|2017-06-13|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000009762041)|
 
 ### #4 [从一次还算顺利的面试过程，带来求职过程的思考总结](blogs/my-happy-career.md)
 
