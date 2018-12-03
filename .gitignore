@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# maven
+target/
+
+# idea
+*.iml
+.idea/
+
+# hive
+derby.log
+metastore_db/
+
+# etc.
+*.log
