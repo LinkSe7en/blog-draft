@@ -72,3 +72,8 @@
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
+
+
+# LICENSE
+[CC BY-NC-ND 4.0 EN](./LICENSE)
+[CC BY-NC-ND 4.0 ZH](./LICENSE_ZH)
