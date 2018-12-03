@@ -34,7 +34,7 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----|
-|2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat]()|
+|2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
 ## 系列文章深坑
 
