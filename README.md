@@ -36,6 +36,12 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
+### #10 [码农管码农 Collection<码农> Leader血泪史](blogs/snapshot/history-of-a-tech-leader.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-04|2018-12-04|V1.0.0-SNAPSHOT|false||
+
 ## 系列文章深坑
 
 ## OLAP on Spark
@@ -53,13 +59,13 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
+|2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
 
 ### #7 [详单查询，实时聚合](blogs/snapshot/real_time-query-and-aggregation.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
+|2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
 
 ### #8 [面向应用与面向OLAP](blogs/snapshot/portrait-application-and-olap.md)
 
