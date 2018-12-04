@@ -15,25 +15,25 @@
 ### #1 [Spark Java使用DataFrame的foreach/foreachPartition](blogs/spark-foreach-partition-in-java.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2016-05-28|2016-05-28|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005365244)|
 
 ### #2 [使用Zeppelin来实现大数据分析的可视化](blogs/hello-zeppelin.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2016-06-08|2016-06-08|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005673104)|
 
 ### #3 [Spark通过bulkLoad对HBase快速导入](blogs/spark-hbase-bulkload.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2017-06-13|2017-06-13|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000009762041)|
 
 ### #4 [从一次还算顺利的面试过程，带来求职过程的思考总结](blogs/my-happy-career.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
 ## 系列文章深坑
@@ -43,7 +43,7 @@
 ### #5 [基于Spark构建通用即席查询平台 Part0000](blogs/snapshot/very-exciting-spark-query-platform-part0000.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-01|2018-12-01|V1.0.0-SNAPSHOT|false||
 
 
@@ -52,25 +52,25 @@
 ### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/snapshot/how-to-design-hbase-struct.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
 ### #7 [详单查询，实时聚合](blogs/snapshot/real_time-query-and-aggregation.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
 ### #8 [面向应用与面向OLAP](blogs/snapshot/portrait-application-and-olap.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
 ### #9 [关于NoSQL在应用开发中选型的思考](blogs/snapshot/nosql-in-application.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
-|:-----:|:-----:|:-----:|:-----:|:-----|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
 
