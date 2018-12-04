@@ -75,5 +75,5 @@
 
 
 # LICENSE
-- [CC BY-NC-ND 4.0 EN](./LICENSE.md)
+- [CC BY-NC-ND 4.0 EN](./LICENSE_EN.md)
 - [CC BY-NC-ND 4.0 ZH](./LICENSE_ZH.md)
