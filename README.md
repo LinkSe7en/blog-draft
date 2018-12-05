@@ -36,7 +36,7 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
-### #10 [码农管码农 Collection[码农] Leader血泪史](blogs/snapshot/history-of-a-tech-leader.md)
+### #10 [码农管码农 Collection[码农] Leader血泪史](blogs/history-of-a-tech-leader.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -46,7 +46,7 @@
 
 ## OLAP on Spark
 
-### #5 [基于Spark构建通用即席查询平台 Part0000](blogs/snapshot/very-exciting-spark-query-platform-part0000.md)
+### #5 [基于Spark构建通用即席查询平台 Part0000](blogs/very-exciting-spark-query-platform-part0000.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -55,25 +55,25 @@
 
 ## HBase在用户画像中的应用
 
-### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/snapshot/how-to-design-hbase-struct.md)
+### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/how-to-design-hbase-struct.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
 
-### #7 [详单查询，实时聚合](blogs/snapshot/real_time-query-and-aggregation.md)
+### #7 [详单查询，实时聚合](blogs/real_time-query-and-aggregation.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
 
-### #8 [面向应用与面向OLAP](blogs/snapshot/portrait-application-and-olap.md)
+### #8 [面向应用与面向OLAP](blogs/portrait-application-and-olap.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
 
-### #9 [关于NoSQL在应用开发中选型的思考](blogs/snapshot/nosql-in-application.md)
+### #9 [关于NoSQL在应用开发中选型的思考](blogs/nosql-in-application.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
