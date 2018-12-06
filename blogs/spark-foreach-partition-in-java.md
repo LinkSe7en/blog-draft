@@ -105,7 +105,7 @@ Task不能被序列化
 
 注意！我们实现的匿名类的方法，实际上是在executor上执行的，所以println是输出到executor机器的stdout上。这个我们可以通过Spark的web ui，点击具体Application的Executor页面去查看（调试用的虚拟机集群，手扶拖拉机一样的配置，别吐槽了~）
 
-![](https://github.com/LinkSe7en/blog-draft/blob/master/resources/testing-spark-cluster.jpg)
+![](../resources/testing-spark-cluster.jpg)
 
 至于foreach方法同理。只不过把Iterator<Row> 换成 Row。具体怎么搞，慢慢玩吧~~~
 have fun~

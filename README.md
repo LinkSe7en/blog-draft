@@ -12,74 +12,74 @@
 
 ## 随笔
 
-### #1 [Spark Java使用DataFrame的foreach/foreachPartition](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/spark-foreach-partition-in-java.md)
+### #1 [Spark Java使用DataFrame的foreach/foreachPartition](blogs/spark-foreach-partition-in-java.md)
 
-```json
-{
-  "create_time":"2016-05-28",
-  "edit_time":"2016-05-28",
-  "current_version":"V1.0.0-RELEASE",
-  "has_publish":true,
-  "publish_urls":[
-    "https://segmentfault.com/a/1190000005365244"
-  ]
-}
-```
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2016-05-28|2016-05-28|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005365244)|
 
-### #2 [使用Zeppelin来实现大数据分析的可视化](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/hello-zeppelin.md)
+### #2 [使用Zeppelin来实现大数据分析的可视化](blogs/hello-zeppelin.md)
 
-```json
-{
-  "create_time":"2016-06-08",
-  "edit_time":"2016-06-08",
-  "current_version":"V1.0.0-RELEASE",
-  "has_publish":true,
-  "publish_urls":[
-    "https://segmentfault.com/a/1190000005673104"
-  ]
-}
-```
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2016-06-08|2016-06-08|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000005673104)|
 
-### #3 [Spark通过bulkLoad对HBase快速导入](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/spark-hbase-bulkload.md)
+### #3 [Spark通过bulkLoad对HBase快速导入](blogs/spark-hbase-bulkload.md)
 
-```json
-{
-  "create_time":"2017-06-13",
-  "edit_time":"2017-06-13",
-  "current_version":"V1.0.0-RELEASE",
-  "has_publish":true,
-  "publish_urls":[
-    "https://segmentfault.com/a/1190000009762041"
-  ]
-}
-```
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2017-06-13|2017-06-13|V1.0.0-RELEASE|true|[segmentFault](https://segmentfault.com/a/1190000009762041)|
 
-### #4 [从一次还算顺利的面试过程，带来求职过程的思考总结](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/my-happy-career.md)
+### #4 [从一次还算顺利的面试过程，带来求职过程的思考总结](blogs/my-happy-career.md)
 
-```json
-{
-  "create_time":"2018-11-30",
-  "edit_time":"2018-12-02",
-  "current_version":"V1.1.0-SNAPSHOT",
-  "has_publish":false,
-  "publish_urls":[
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
-  ]
-}
-```
+### #10 [码农管码农 Collection[码农] Leader血泪史](blogs/history-of-a-tech-leader.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-04|2018-12-04|V1.0.2-SNAPSHOT|false||
 
 ## 系列文章深坑
 
-### #5 [基于Spark构建通用即席查询平台 Part0000](https://github.com/LinkSe7en/blog-draft/blob/master/blogs/very-exciting-spark-query-platform-part0000.md)
+## OLAP on Spark
 
-```json
-{
-  "create_time":"2018-12-01",
-  "edit_time":"2018-12-01",
-  "current_version":"V1.0.0-SNAPSHOT",
-  "has_publish":false,
-  "publish_urls":[
+### #5 [基于Spark构建通用即席查询平台 Part0000](blogs/very-exciting-spark-query-platform-part0000.md)
 
-  ]
-}
-```
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-01|2018-12-01|V1.0.0-SNAPSHOT|false||
+
+
+## HBase在用户画像中的应用
+
+### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/how-to-design-hbase-struct.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
+
+### #7 [详单查询，实时聚合](blogs/real_time-query-and-aggregation.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
+
+### #8 [面向应用与面向OLAP](blogs/portrait-application-and-olap.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
+
+### #9 [关于NoSQL在应用开发中选型的思考](blogs/nosql-in-application.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2018-12-02|2018-12-02|V1.0.0-SNAPSHOT|false||
+
+
+# LICENSE
+- [CC BY-NC-ND 4.0 EN](./LICENSE_EN.md)
+- [CC BY-NC-ND 4.0 ZH](./LICENSE_ZH.md)
