@@ -40,7 +40,7 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|2018-12-04|2019-06-13|V1.0.4-SNAPSHOT|false||
+|2018-12-04|2019-06-17|V1.1.1-SNAPSHOT|false||
 
 ## 系列文章深坑
 
