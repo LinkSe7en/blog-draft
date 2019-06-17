@@ -36,7 +36,7 @@
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |2018-11-30|2018-12-03|V1.2.4-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s/G-QYwuX6qnX8zRFFKIYq6A)|
 
-### #10 [码农管码农 Collection[码农] Leader血泪史](blogs/history-of-a-tech-leader.md)
+### #10 [码农管码农 Collection[码农] Cookbook](blogs/history-of-a-tech-leader.md)
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
