@@ -40,7 +40,7 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|2018-12-04|2019-06-17|V1.1.1-SNAPSHOT|false||
+|2018-12-04|2019-06-20|V1.1.2-RELEASE|true|[木东居士 on WeChat](https://mp.weixin.qq.com/s?__biz=MzUyMjI4MzE0MQ==&mid=2247484347&idx=1&sn=981f7f260f3bdce408c05846bc7a7e05&chksm=f9cf7251ceb8fb47f04e85f7ea01fbbe9bb5521a8e84e4c3867294741359bdb505eefc7ea6b9&mpshare=1&scene=1&srcid=&key=39c9920474085814692707d98da154ed6fb49f46071d3ca2bbaa3f53958e99f718eb454a7729e2c62f3fd10f290b02fc1c1c18f767fe7a5b9626e7817ea0a84e8881e28a74e599d53acb70600dfe4496&ascene=1&uin=ODUwNzIxNDgw&devicetype=Windows+7&version=62060833&lang=zh_CN&pass_ticket=sMsHiKDNCblNZ0r%2BY%2F9E97Lu9ixeBFtTl9hPojP%2F06QWiokJ9jXX5sOWzdCCwtev)|
 
 ## 系列文章深坑
 
