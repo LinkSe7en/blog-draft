@@ -59,7 +59,7 @@
 
 | create_time | edit_time | current_version | has_publish | publish_urls |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|2018-12-02|2018-12-04|V1.0.1-SNAPSHOT|false||
+|2018-12-02|2019-06-21|V1.0.4-SNAPSHOT|false||
 
 ### #7 [详单查询，实时聚合](blogs/real_time-query-and-aggregation.md)
 
