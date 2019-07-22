@@ -53,7 +53,33 @@
 |2018-12-01|2018-12-01|V1.0.0-SNAPSHOT|false||
 
 
-## HBase在用户画像中的应用
+## 用户画像
+
+### #11 [用户画像](blogs/what_is_user_portrait.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2019-07-22|2019-07-22|V1.0.0-SNAPSHOT|false||
+
+### #12 [标签体系](blogs/portrait_labal_categorys.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2019-07-22|2019-07-22|V1.0.0-SNAPSHOT|false||
+
+### #13 [画像标签生产与存储](blogs/protrait_produce_and_storage.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2019-07-22|2019-07-22|V1.0.0-SNAPSHOT|false||
+
+### #14 [画像应用](blogs/portrait_application.md)
+
+| create_time | edit_time | current_version | has_publish | publish_urls |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2019-07-22|2019-07-22|V1.0.0-SNAPSHOT|false||
+
+## 回收站
 
 ### #6 [稀疏与绵密，HBase动态列or固定列？](blogs/how-to-design-hbase-struct.md)
 
